@@ -1,6 +1,6 @@
 --- 
 "pages" : 
-  "permalink" : "/:relative_path/:filename"
+  "permalink" : "/:relative_path/:compiled"
   # layout : 'custom-page-layout'
   
 projects: 
