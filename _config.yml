@@ -1,7 +1,7 @@
 # File: _config.yml
 # Where things are
 source:       .
-destination:  ./_site
+destination:  ./_root
 plugins_dir:  _plugins
 layouts_dir:  _layouts
 data_dir:     _data
