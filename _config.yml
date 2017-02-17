@@ -10,7 +10,7 @@ collections:
   posts:
     output:   true
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-hacker
 
 
 
