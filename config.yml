@@ -1,6 +1,6 @@
 --- 
 "pages" : 
-  "permalink" : "/:_root/"
+  # "permalink" : "/:_root/"
   # layout : 'custom-page-layout'
   
 projects: 
